@@ -20,6 +20,6 @@ The application run in 8080 port
 ```http://localhost:8080/pointofinterest?location=51.5083,-0.1256```,
 > Please use the different geocordinate for validating 
 
-######Assumptions 
-- location currently taking as geo-cordinates 
+##### Assumptions 
+- location values currently considered as geo-cordinates 
 - only 3 category are showing 3 closest POIs
